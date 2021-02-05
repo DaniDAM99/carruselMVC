@@ -9,6 +9,6 @@
     </head>
     <body>
         <h1>Hello World!</h1>
-        <a href="servletCarrusel">Arrancar Carrousel</a>
+        <a href="servletCarrusel">Arrancar app</a>
     </body>
 </html>
